@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eduvilla
-- 👀 I’m interested in coding an sports
+- 👀 I’m interested in coding and sports
 - 🌱 I’m currently learning coding, and improving my BBDD skills. Also learning about Cloud Computing.
 
 <!---
